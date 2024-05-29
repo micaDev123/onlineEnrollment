@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi
+web: vendor/bin/heroku-php-apache2
